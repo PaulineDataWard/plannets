@@ -3,3 +3,5 @@ A Marzzs a day helps you work, rest and play!
 ?!?!
 Take me to your feeder.
 Now I can add my stuff - cyril
+
+When I did sync, having re-named the file, it merged the line Cyril had added into mars.txt to my mars-bars.txt. So I had to actively re-load it into Atom, otherwise I would not have noticed the line that Cyril added. 

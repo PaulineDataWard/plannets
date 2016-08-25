@@ -12,6 +12,8 @@ git add mars-bars.txt
 git commit -a
 git push origin master
 
+And here I need to enter my username and password. 
+
 Hourah!
 
 # Pauline#s starting

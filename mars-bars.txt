@@ -1,10 +1,22 @@
+COMMIT BEFORE YOU MERGE
+MERGE BEFORE YOU COMMIT
+ARGH!
+
+# Pauline#s starting
 Matt Damon rules.
 I'm gonna have to science the sh** outta this. Or A Marzzs a day helps you work, rest and play!
 import SpaceTravel.pkg
 
+# in between
+I changing line 1 and2
+just to screw up -
+
+blahblahblah
+
 ?!?! - screwing up your line
 Take me to your feeder.
-<<<<<<< HEAD
+# comments are good.
+
 Keeping this: Now I can add my stuff - cyril
 
 # This is Pauline's extra content
@@ -14,9 +26,9 @@ When I did sync, having re-named the file, it merged the line Cyril had added in
 let me add another one - with wrong file name
 
 
-=== Re-added conflict information ====
+# === Re-added conflict information ====
 #Unnecessary!
 Now I can add my stuff - cyril
 let me add anopter one - with wrong file name
 trying again
->>>>>>> origin/master
+# delete the bits of markup about conflicts to resolve conflicts.

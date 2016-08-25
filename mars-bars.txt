@@ -2,6 +2,18 @@ COMMIT BEFORE YOU MERGE
 MERGE BEFORE YOU COMMIT
 ARGH!
 
+Cannot do a partial commit.
+
+Need to do:
+
+git pull origin master
+It finds a conflict. I edit the file to chop out the marked up bits.
+git add mars-bars.txt
+git commit -a
+git push origin master
+
+Hourah!
+
 # Pauline#s starting
 Matt Damon rules.
 I'm gonna have to science the sh** outta this. Or A Marzzs a day helps you work, rest and play!
